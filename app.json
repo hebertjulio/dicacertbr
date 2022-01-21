@@ -1,0 +1,16 @@
+{
+    "id": "eb03b65b-a6d2-40a5-b884-379553e4cd22",
+    "version": "0.0.0",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Hebert Júlio",
+        "homepage": "https://github.com/hebertjulio",
+        "support": "https://github.com/hebertjulio/dicacertbr"
+    },
+    "name": "Dica CERT.br",
+    "nameSlug": "dicacertbr",
+    "classFile": "DicaCertBrApp.ts",
+    "description": "Captura dicas diárias no twitter do CERT.br e posta em uma sala a sua escolha no Rocket.Chat",
+    "implements": []
+}

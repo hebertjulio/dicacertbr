@@ -1,0 +1,6 @@
+{
+    "sender_username_label": "Nome de Usuário Rementente (opcional)",
+    "room_name_label": "Nome da Sala para Postagem",
+    "consumer_key_label": "Chave do Consumidor no Twitter",
+    "consumer_secret_label": "Segredo do Consumidor no Twitter"
+}

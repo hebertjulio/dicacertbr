@@ -1,0 +1,6 @@
+{
+    "sender_username_label": "Sender Username (optional)",
+    "room_name_label": "Post Room Name",
+    "consumer_key_label": "Twitter Consumer Key",
+    "consumer_secret_label": "Twitter Consumer Secret"
+}
